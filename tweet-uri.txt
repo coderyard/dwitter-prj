@@ -1,0 +1,10 @@
+Tweet schema
+
+{
+  id: string,
+  text: string,
+  createdAt: Date,
+  name: string,
+  username: string,
+  rul: string?
+}
